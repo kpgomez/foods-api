@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     "favorites",
     "grocery_list",
     "ingredients",
+    "inventory",
     "recipes",
 ]
 
